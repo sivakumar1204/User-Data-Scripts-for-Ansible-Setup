@@ -3,3 +3,4 @@ Terraform_1.56/
 *.tfstate.*
 **/.terraform/*
 **/.terraform.lock.hcl
+My-Project.pem
